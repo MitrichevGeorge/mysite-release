@@ -7,7 +7,7 @@ release of informaticks analog
  - Скачайте и установите git
 ### 2.Клонируйте репозиторий:
 - ```powershell
-  git clone https://github.com/MitrichevGeorge/mysite-release.git
+  git clone https://github.com/MitrichevGeorge/mysite-f.git
   ```
 - ```powershell
   cd mysite-release/mysite
