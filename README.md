@@ -10,7 +10,7 @@ release of informaticks analog
   git clone https://github.com/MitrichevGeorge/mysite-f.git
   ```
 - ```powershell
-  cd mysite-release/mysite
+  cd mysite-f
   ```
 ### 3.Подготовка
 - установите необходимые библиотеки:
