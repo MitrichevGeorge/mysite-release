@@ -1,5 +1,6 @@
 ﻿# mysite-release
 release of informaticks analog
+[презентация здесь](https://1drv.ms/p/c/577f8842769e83ec/EWZwGBfyOYNAshQ2HTcExCYBpPUdv57X9R4SF1E97ap_gQ?e=zJh6PO)
 
 # Установка:
 ### 1.Установите git (если у Вас его ещё нет):
